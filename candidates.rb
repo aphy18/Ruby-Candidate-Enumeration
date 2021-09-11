@@ -18,6 +18,7 @@ require 'active_support/all'
     age: 19
   },
   {
+    #to_date converts a string into a date value
     id: 9,
     years_of_experience: 6,
     github_points: 435,
